@@ -70,7 +70,8 @@ After installation, administrators and agents log in via the Admin Panel (http:/
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/d35b0a05-93b9-47af-8788-5d9f87d5a263" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<<img width="962" height="502" alt="image" src="https://github.com/user-attachments/assets/8be31d00-e442-4427-88f1-5ec8a2382cd7" />
+
 
 </p>
 <p>
