@@ -85,7 +85,8 @@ After installation, administrators and agents log in via the Admin Panel (http:/
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/872dec74-5179-47b3-bad1-5bfd5dadbc3a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="976" height="748" alt="image" src="https://github.com/user-attachments/assets/a94ba4c6-0530-4036-a622-9d9207c5f331" />
+
 </p>
 <p>
 In the Admin Panel, go to Agents > Add New to create agent accounts like Dan (assigned to SysAdmins) and Robert (assigned to Support). Agents are staff members who manage and respond to tickets. To add end users (customers), switch to the Agent Panel, go to Users > Add New, and create profiles for users like Jane and John who will submit support requests.
