@@ -27,7 +27,7 @@ Access & Navigation
 
 Agent & Department Management
 - Configure Roles, Departments, and Teams in the Admin Panel to control agent permissions, ticket visibility, and enable cross-department collaboration.
-- Add Agents (e.g., Spongebob in SysAdmins, Patrick in Support), Create Users under the Agent Panel (e.g., Eugene Krabs) for ticket submission.
+- Add Agents (e.g., Dan in SysAdmins, Robert in Support), Create Users under the Agent Panel (e.g., Dan Sosa) for ticket submission.
 - Set up SLA plans and define Help Topics to organize ticket types and response expectations based on issue severity.
 
 User Settings
@@ -52,7 +52,7 @@ Ticket Workflow Setup
   
 </p>
 <p>
-After installing osTicket, administrators and support agents log in through the Admin Panel at http://localhost/osTicket/scp/login.php, which provides access to system settings and ticket management tools. This is where agents can configure roles, departments, SLAs, and respond to incoming tickets. End users, on the other hand, submit and track their support requests through the client portal at http://localhost/osTicket.
+After installation, administrators and agents log in via the Admin Panel (http://localhost/osTicket/scp/login.php) to manage system settings, roles, departments, SLAs, and tickets. End users access the Client Portal (http://localhost/osTicket) to submit and track their support requests.
 </p>
 <br />
 
@@ -77,7 +77,7 @@ To control who can submit support tickets, go to the Admin Panel, then Settings 
 <img src="https://github.com/user-attachments/assets/872dec74-5179-47b3-bad1-5bfd5dadbc3a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the Admin Panel, go to Agents > Add New to create agent accounts like Spongebob (assigned to SysAdmins) and Patrick (assigned to Support). Agents are staff members who manage and respond to tickets. To add end users (customers), switch to the Agent Panel, go to Users > Add New, and create profiles for users like Karen and Ken who will submit support requests.
+In the Admin Panel, go to Agents > Add New to create agent accounts like Dan (assigned to SysAdmins) and Robert (assigned to Support). Agents are staff members who manage and respond to tickets. To add end users (customers), switch to the Agent Panel, go to Users > Add New, and create profiles for users like Jane and John who will submit support requests.
 </p>
 <br />
 
