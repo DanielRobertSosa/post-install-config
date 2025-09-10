@@ -75,7 +75,12 @@ After installation, administrators and agents log in via the Admin Panel (http:/
 
 </p>
 <p>
-To control who can submit support tickets, go to the Admin Panel, then Settings > User Settings. Uncheck the box that allows unregistered users to create tickets, which ensures that only registered users can submit requests. This helps maintain a more secure and manageable ticketing system by requiring user authentication.
+🔐 User Settings
+  
+- Navigate to Admin Panel → Settings → User Settings.
+- Uncheck the option for unregistered users to create tickets.
+- This ensures only registered users can submit requests, improving security and maintaining a manageable ticketing system.
+
 </p>
 <br />
 
