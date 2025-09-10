@@ -112,6 +112,9 @@ Ticket Workflow Setup
   - Go to Admin Panel → Manage → SLA.
   - Create service levels (like Sev-A, Sev-B, Sev-C).
   - Each level should have different response times so urgent tickets get handled faster.
+
+<img width="952" height="725" alt="image" src="https://github.com/user-attachments/assets/ac60a2d6-0195-482b-9755-1f7922ae685a" />
+
 - Help Topics
   - Go to Admin Panel → Manage → Help Topics.
   - Add categories such as Password Reset or Business Critical Outage.
