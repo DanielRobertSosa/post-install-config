@@ -57,10 +57,15 @@ After installation, administrators and agents log in via the Admin Panel (http:/
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/6211ec8e-ebfc-4325-9a3a-cb8b4e2f80e5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="963" height="689" alt="image" src="https://github.com/user-attachments/assets/b0ad4a6b-8a0e-452e-a819-a42a2ff48e68" />
+
 </p>
 <p>
-In the Admin Panel, go to Agents > Roles to create roles like “Supreme Admin” that define what actions agents can perform. Next, navigate to Agents > Departments to organize agents into groups such as “SysAdmins” or “Support,” which control ticket visibility. Then, under Agents > Teams, create teams like “Online Banking” by combining agents from different departments to collaborate on specific types of issues.
+⚙️ Admin Panel: Roles, Departments, and Teams
+  
+- Roles – Define agent permissions (e.g., Supreme Admin with full access).
+- Departments – Group agents (e.g., SysAdmins, Support) to manage ticket visibility.
+- Teams – Combine agents across departments (e.g., Online Banking) for cross-functional collaboration.
 </p>
 <br />
 
