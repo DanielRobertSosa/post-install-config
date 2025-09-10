@@ -45,7 +45,10 @@ Ticket Workflow Setup
 <img width="1477" height="968" alt="image" src="https://github.com/user-attachments/assets/1f355a2d-3969-4e33-b9b4-5cffaeabdf62" />
 
 
-  <img src="https://github.com/user-attachments/assets/75f34990-c9e7-4f3b-846d-a9a563fb21b4\" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+🧑‍💻 Agent Panel
+
+<img width="991" height="402" alt="image" src="https://github.com/user-attachments/assets/b3c63638-0429-49f6-a632-853f7a5bf36f" />
+
   
 </p>
 <p>
