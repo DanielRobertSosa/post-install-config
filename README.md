@@ -7,9 +7,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://youtu.be/zNs5ULz1ZwU)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -23,11 +21,22 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Log into the Admin Panel via http://localhost/osTicket/scp/login.php and direct users to the client portal at http://localhost/osTicket.
-- In the Admin Panel, configure Roles, Departments, and Teams to manage agent permissions, visibility, and cross-department collaboration.
-- Adjust User Settings to require registration before users can create tickets by unchecking the "unregistered users" option.
-- Add Agents under the Admin Panel (e.g., Spongebob in SysAdmins, Patrick in Support) and create Users under the Agent Panel (e.g., Eugene Krabs).
+Access & Navigation
+- Log into the Admin Panel via http://localhost/osTicket/scp/login.php.
+- Direct end-users to the Client Portal at http://localhost/osTicket.
+
+Agent & Department Management
+- Configure Roles, Departments, and Teams in the Admin Panel to control agent permissions, ticket visibility, and enable cross-department collaboration.
+- Add Agents (e.g., Spongebob in SysAdmins, Patrick in Support), Create Users under the Agent Panel (e.g., Eugene Krabs) for ticket submission.
 - Set up SLA plans and define Help Topics to organize ticket types and response expectations based on issue severity.
+
+User Settings
+- Require registration before ticket creation by disabling the “unregistered users” option.
+
+Ticket Workflow Setup
+- Create SLA Plans to set response and resolution expectations.
+- Define Help Topics to categorize tickets and streamline issue routing (based on severity or type).
+
 
 <h2>Configuration Steps</h2>
 
