@@ -119,3 +119,6 @@ Ticket Workflow Setup
   - Go to Admin Panel → Manage → Help Topics.
   - Add categories such as Password Reset or Business Critical Outage.
   - Users pick a topic when they submit a ticket, which helps the system send it to the right team.
+
+ <img width="953" height="471" alt="image" src="https://github.com/user-attachments/assets/df2e3022-6bb8-4ba2-bf8c-00b34728ff41" />
+
