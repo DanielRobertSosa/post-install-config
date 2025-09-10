@@ -52,7 +52,11 @@ Ticket Workflow Setup
   
 </p>
 <p>
-After installation, administrators and agents log in via the Admin Panel (http://localhost/osTicket/scp/login.php) to manage system settings, roles, departments, SLAs, and tickets. End users access the Client Portal (http://localhost/osTicket) to submit and track their support requests.
+🔑 Accessing osTicket
+  
+- Admin Panel – Log in at http://localhost/osTicket/scp/login.php to manage settings, roles, departments, SLAs, and tickets.
+- Client Portal – End users go to http://localhost/osTicket to submit new requests and track existing tickets.
+
 </p>
 <br />
 
@@ -89,14 +93,26 @@ After installation, administrators and agents log in via the Admin Panel (http:/
 
 </p>
 <p>
-In the Admin Panel, go to Agents > Add New to create agent accounts like Dan (assigned to SysAdmins) and Robert (assigned to Support). Agents are staff members who manage and respond to tickets. To add end users (customers), switch to the Agent Panel, go to Users > Add New, and create profiles for users like Jane and John who will submit support requests.
+👥 Agents & Users
+
+- Agents – In the Admin Panel → Agents → Add New, create staff accounts (e.g., Dan in SysAdmins, Robert in Support) to manage and respond to tickets.
+- Users – In the Agent Panel → Users → Add New, create end-user profiles (e.g., Jane, John) who submit support requests through the client portal.
+  
 </p>
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/07861cf4-3fb6-438c-be6f-157bdb91c021" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1203" height="478" alt="image" src="https://github.com/user-attachments/assets/5ba9e960-4564-445b-a5a3-dcc81957d208" />
+
 </p>
 <p>
-In the Admin Panel, navigate to Manage > SLA to create Service Level Agreements such as Sev-A, Sev-B, and Sev-C, each with different response time expectations and schedules. These SLAs help prioritize tickets based on urgency and ensure timely support. Then go to Manage > Help Topics to create categories like Password Reset or Business Critical Outage, which users select when submitting tickets to streamline routing and handling.
-</p>
-<br />
+⏱️ SLA Plans & Help Topics
+
+- SLA Plans
+  - Go to Admin Panel → Manage → SLA.
+  - Create service levels (like Sev-A, Sev-B, Sev-C).
+  - Each level should have different response times so urgent tickets get handled faster.
+- Help Topics
+  - Go to Admin Panel → Manage → Help Topics.
+  - Add categories such as Password Reset or Business Critical Outage.
+  - Users pick a topic when they submit a ticket, which helps the system send it to the right team.
